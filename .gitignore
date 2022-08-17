@@ -1,0 +1,4 @@
+venvs
+db.sqlite3
+mysql
+/static
